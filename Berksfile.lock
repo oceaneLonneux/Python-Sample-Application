@@ -1,0 +1,11 @@
+DEPENDENCIES
+  nginx
+    git: https://github.com/oceaneLonneux/NginxCookbook
+    revision: 3687c1de03a7b44ead4a096eb2a47ef6a9a1df95
+  python
+    git: https://github.com/oceaneLonneux/PythonCookbook
+    revision: 466249a6430db57cd2e8a9fe0313f1b7dc0d9a3a
+
+GRAPH
+  nginx (0.1.0)
+  python (0.1.0)
