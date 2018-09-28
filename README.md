@@ -8,7 +8,6 @@ https://developer.uber.com/
 
 What Is This?
 -------------
-
 This is a simple Python/Flask application intended to provide a working example of Uber's external API. The goal of these endpoints is to be simple, well-documented and to provide a base for developers to develop other applications off of.
 
 
